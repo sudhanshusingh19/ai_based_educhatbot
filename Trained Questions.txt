@@ -1,0 +1,38 @@
+What is the main goal of education?
+How do students learn best?
+What is AI?
+Define chatbot.
+What is machine learning?
+How does AI work?
+What is data science?
+What are the key components of data science?
+What is machine learning?
+What are common data science tools?
+What is supervised learning?
+What is unsupervised learning?
+How is data visualization useful in data science?
+What is a dataset?
+What is overfitting in machine learning?
+How does Python help in data science?
+What is data preprocessing?
+What is feature selection?
+What is a confusion matrix?
+What is the role of statistics in data science?
+What is cross-validation?
+What is deep learning?
+What are neural networks?
+What is natural language processing?
+What is big data?
+What are recommendation systems?
+How is clustering used in data science?
+What is regression analysis?
+What is a decision tree?
+What is dimensionality reduction?
+What is principal component analysis (PCA)?
+What is an outlier?
+How is data cleaning performed?
+What is time series analysis?
+What is the role of a data scientist?
+How do you evaluate a machine learning model?
+What is the difference between AI and data science?
+
